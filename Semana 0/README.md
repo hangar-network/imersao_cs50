@@ -1,12 +1,10 @@
 #Atividades da Semana 0
 
-## Configuração do ambiente de desenvolvimento 
+## Configuração do ambiente de desenvolvimento
  Acesse o diretório [Linux](https://github.com/espacodeestudosbotafogo/imersao_cs50/tree/master/Semana%200/Linux) e siga as intruções!
 
 ## Mão na massa!
 
-
-### Iniciantes
 
   1. Números Binários
   2. ASCII
@@ -25,6 +23,4 @@
   15. Vetores
   16. Threads
   17. Eventos
-
-
-### Hacker
+  18. Hacker
