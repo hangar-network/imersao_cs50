@@ -1,1 +1,1 @@
-## Configurando o ambiente de desenvolvimento
+## Configurando seu ambiente de desenvolvimento
