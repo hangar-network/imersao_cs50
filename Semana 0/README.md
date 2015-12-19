@@ -1,10 +1,30 @@
-# Semana 0
+#Atividades da Semana 0
 
-Conteúdo
-  1.
-  2.
-
-## Modo Básico
+## Configurando seu ambiente de desenvolvimento
 
 
-## Modo Hacker
+## Mão na massa!
+
+
+### Iniciantes
+
+  1. Números Binários
+  2. ASCII
+  3. Algoritmos
+  4. Pseudocódigo
+  5. Código-fonte
+  6. Compilador
+  7. Código objeto (extensão .o)
+  8. Scratch
+  9. Statements
+  10. Expressões booleanas
+  11. Condicionais
+  12. Loops
+  13. Variáveis
+  14. Funções
+  15. Vetores
+  16. Threads
+  17. Eventos
+
+
+### Hacker
