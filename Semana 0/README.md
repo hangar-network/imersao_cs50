@@ -1,7 +1,7 @@
 #Atividades da Semana 0
 
-## Configurando seu ambiente de desenvolvimento
-
+## Configurando o ambiente de desenvolvimento
+ Acesse o diretório [Linux]() e 
 
 ## Mão na massa!
 
