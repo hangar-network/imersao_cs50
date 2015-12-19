@@ -5,8 +5,8 @@
 
 ##Aprenda os conceitos
 
-    1. Assista a aula [Week0](https://www.youtube.com/watch?v=zFenJJtAEzE).
-    2. Assista a aula [Week0, continued](https://www.youtube.com/watch?v=UuFWYOnHwGM).
+  1. Assista a aula [Week0](https://www.youtube.com/watch?v=zFenJJtAEzE).
+  2. Assista a aula [Week0, continued](https://www.youtube.com/watch?v=UuFWYOnHwGM).
 
 ##Teste seus conhecimentos
 
