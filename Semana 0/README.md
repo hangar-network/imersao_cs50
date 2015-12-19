@@ -1,10 +1,14 @@
 #Atividades da Semana 0
 
-## Configuração do ambiente de desenvolvimento
+##Configuração do ambiente de desenvolvimento
  Acesse o diretório [Linux](https://github.com/espacodeestudosbotafogo/imersao_cs50/tree/master/Semana%200/Linux) e siga as intruções!
 
-## Mão na massa!
+##Aprenda os conceitos
 
+    1. Assista a aula [Week0](https://www.youtube.com/watch?v=zFenJJtAEzE).
+    2. Assista a aula [Week0, continued](https://www.youtube.com/watch?v=UuFWYOnHwGM).
+
+##Teste seus conhecimentos
 
   1. Números Binários
   2. ASCII
@@ -15,7 +19,7 @@
   7. Código objeto (extensão .o)
   8. Scratch
   9. Statements
-  10. Expressões booleanas
+  10. Expressões Booleanas
   11. Condicionais
   12. Loops
   13. Variáveis
