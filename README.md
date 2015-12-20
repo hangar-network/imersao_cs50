@@ -1,13 +1,17 @@
 # Curso de Introdução à Ciência da Computação
 ###realizado pelo [Espaço de Estudos Botafogo] (http://www.costudying.org/)
 
-**Aqueles que possuem alguma experiência com computação podem partir direto para os projetos propostos como objetivo da semana.**
+Este curso reúne os recursos do curso CS50 de Harvard com algumas atividades práticas extras propostas para complementar a sua experiência de aprendizado.
+Incentivamos você a explorar os conhecimentos e aprender no seu ritmo. Queremos que você tenha uma experiência de aprendizado individual, mas não se esqueça de que, a todo momento, haverão monitores a sua disposição.
 
-Semana 0: Aspectos básicos da linguagem C
+Cada semana possui conteúdos previstos segundo o seguinte esquema:
+
+
+Semana 0: Instalação Linux. Scratch. Aspectos básicos da linguagem C.
 
 Semana 1:
 
 Semana 2:
 
 
-Semana 3: 
+Semana 3:
