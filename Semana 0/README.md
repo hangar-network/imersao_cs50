@@ -1,4 +1,4 @@
-#Atividades da Semana 0
+#Semana 0
 
 ##Configuração do ambiente de desenvolvimento
  Acesse o diretório [Linux](https://github.com/espacodeestudosbotafogo/imersao_cs50/tree/master/Semana%200/00%20Linux) e siga as intruções!
