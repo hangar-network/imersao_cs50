@@ -11,7 +11,7 @@
 ##Teste seus conhecimentos
 
   1. [Números Binários](https://github.com/espacodeestudosbotafogo/imersao_cs50/tree/master/Semana%200/N%C3%BAmeros%20Bin%C3%A1rios)
-  2. ASCII
+  2. [ASCII]
   3. Algoritmos
   4. Pseudocódigo
   5. Código-fonte
