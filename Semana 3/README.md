@@ -16,5 +16,3 @@
 
 
 ##Projeto da Semana
-
-Hacker. teste2. Novo teste
