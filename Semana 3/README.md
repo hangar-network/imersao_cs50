@@ -7,7 +7,7 @@
 
 ##Teste seus conhecimentos
 
-  1. Linha de Comando Recursion.
+  1. Linha de Comando Recursion. 
   2. Busca
   3. Conceito de Ordenação. Bubble sort. Selection sort. Insertion sort.
   4. Complexidade (funções O. Ω .Θ.)
@@ -16,3 +16,5 @@
 
 
 ##Projeto da Semana
+
+Hacker
