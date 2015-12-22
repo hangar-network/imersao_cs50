@@ -1,10 +1,16 @@
-# Semana 1
+#Semana 1
 
-Conteúdo
-  1.
-  2.
+##Aprenda os conceitos
 
-## Modo Básico
+  1. Assista a aula [Week1](https://www.youtube.com/watch?v=YiiHNiSfmKI).
+  2. Assista a aula [Week1, continued](https://www.youtube.com/watch?v=Y2vC3G8qVxw).
 
+##Teste seus conhecimentos
 
-## Modo Hacker
+  1. C
+  2. Compilando
+  3. Bibliotecas
+  4. Tipos
+  5. Saída Padrão
+
+##Projeto da Semana
