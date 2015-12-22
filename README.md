@@ -14,3 +14,5 @@ Semana 1:   C. Compilando. Bibliotecas. Tipos. Saída Padrão
 Semana 2: Casting. Imprecisão. Switches. Escopo. Strings. Vetores (Arrays). Criptografia
 
 Semana 3: Linha de Comando. Busca. Conceito de Ordenação. Bubble sort. Selection sort. Insertion sort. Complexidade (funções O. Ω .Θ.). Recursão. Merge Sort
+
+Semana 4: Stack. Debugando. Arquivos I/O. Hexadecimal. Strings. Ponteiros. Alocação de memória
