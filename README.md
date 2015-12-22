@@ -7,11 +7,10 @@ Incentivamos você a explorar os conhecimentos e aprender no seu ritmo. Queremos
 Cada semana possui conteúdos previstos segundo o seguinte esquema:
 
 
-Semana 0: Instalação Linux. Scratch. Aspectos básicos da linguagem C.
+Semana 0: Instalação Linux. Números Binários. ASCII. Algoritmos. Pseudocódigo. Código-fonte. Compilador. Código objeto (extensão .o). Scratch. Statements. Expressões Booleanas. Condicionais. Loops. Variáveis. Funções. Vetores. Threads. Eventos
 
-Semana 1:
+Semana 1:   C. Compilando. Bibliotecas. Tipos. Saída Padrão
 
-Semana 2:
+Semana 2: Casting. Imprecisão. Switches. Escopo. Strings. Vetores (Arrays). Criptografia
 
-
-Semana 3:
+Semana 3: Linha de Comando. Busca. Conceito de Ordenação. Bubble sort. Selection sort. Insertion sort. Complexidade (funções O. Ω .Θ.). Recursão. Merge Sort
