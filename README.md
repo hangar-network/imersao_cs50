@@ -1,5 +1,5 @@
 # Curso de Introdução à Ciência da Computação
-###realizado pelo [Espaço de Estudos Botafogo] (http://www.costudying.org/)
+### realizado pelo [Espaço de Estudos Botafogo] (http://www.costudying.org/)
 
 Este curso reúne os recursos do curso CS50 de Harvard com algumas atividades práticas extras propostas para complementar a sua experiência de aprendizado.
 Incentivamos você a explorar os conhecimentos e aprender no seu ritmo. Queremos que você tenha uma experiência de aprendizado individual, mas não se esqueça de que, a todo momento, haverão monitores a sua disposição.
