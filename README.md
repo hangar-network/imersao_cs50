@@ -9,7 +9,7 @@ Cada semana possui conteúdos previstos segundo o seguinte esquema:
 
 Semana 0: Instalação Linux. Números Binários. ASCII. Algoritmos. Pseudocódigo. Código-fonte. Compilador. Código objeto (extensão .o). Scratch. Statements. Expressões Booleanas. Condicionais. Loops. Variáveis. Funções. Vetores. Threads. Eventos
 
-Semana 1:   C. Compilando. Bibliotecas. Tipos. Saída Padrão
+Semana 1:  C. Compilando. Bibliotecas. Tipos. Saída Padrão
 
 Semana 2: Casting. Imprecisão. Switches. Escopo. Strings. Vetores (Arrays). Criptografia
 
